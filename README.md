@@ -1,8 +1,8 @@
 
-#***kaggle Challenges:***
+# ***kaggle Challenges:***
 
 ----------
-###*Aim*:
+### *Aim*:
 
 ----------
 
@@ -10,26 +10,26 @@
 To model the training set provided and make predictions for the leador board dataset.
 
 -------------
-###*Softwares Used*:
+### *Softwares Used*:
 
 -------------
 Python, Numpy
 
 
 -------------
-###*Language Written*:
+### *Language Written*:
 
 -------------
 Python language
 
 -------------
-###*Algorithm*:
+### *Algorithm*:
 
 -------------
 Linear Regression is used to model. Then using Logistic Regression predictions were made efficient. Still to improve the predictions, Random Forest Algorithm is used.
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 Run mytry.py file to load the training set and test it.
